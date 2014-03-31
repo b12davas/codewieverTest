@@ -6,5 +6,8 @@
 	echo "WHAT IS THIS?" + $version;
 	echo "chamber"
 	echo "of doom"
+	
+	echo "NYA FORKEN"
+	
 
 ?>
