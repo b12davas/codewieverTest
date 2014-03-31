@@ -7,7 +7,7 @@
 	echo "chamber"
 	echo "of doom"
 	
-	echo "NYA FORKEN"
+	echo "Detta är den nya branchen"
 	
 
 ?>
