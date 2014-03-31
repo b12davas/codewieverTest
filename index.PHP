@@ -8,6 +8,7 @@
 	echo "of doom"
 	defghjklö
 	echo "Detta är den nya branchen"
+	echo "test c12danla"
 	
 
 ?>
