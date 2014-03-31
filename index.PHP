@@ -3,12 +3,8 @@
 	$version++;
 	
 	echo "hello world" +$version;
+	echo "WHAT IS THIS?" + $version;
 
 	echo "chamber"
 
 ?>
-
-
-
-
-a12kenst fuckar upp alllt nu
