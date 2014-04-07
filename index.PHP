@@ -4,4 +4,6 @@
 	
 	echo "hello world" +$version;
 
+	echo "ROLF"
+
 ?>
