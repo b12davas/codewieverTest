@@ -8,4 +8,6 @@
 
 	echo "LOL"
 
+	echo "ROLF"
+
 ?>
