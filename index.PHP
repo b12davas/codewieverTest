@@ -3,6 +3,7 @@
 	$version++;
 	
 	echo "hello world" +$version;
+	echo "WHOOOT"
 
 
 	echo "LOL"
